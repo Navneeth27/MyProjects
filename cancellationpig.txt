@@ -1,0 +1,1 @@
+({(),(CancellationCode),(D),(B),(air_traffic1.cancellationcode),(C),(A)},6)
